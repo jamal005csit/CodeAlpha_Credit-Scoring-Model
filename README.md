@@ -431,15 +431,6 @@ credit_scoring_project/
 
 ---
 
-## 👥 Contact and Support
-
-For questions, issues, or contributions:
-- Model Developer: Senior Data Scientist
-- Date: January 2026
-- Version: 1.0
-
----
-
 ## 📄 License and Compliance
 
 This model is designed for use in regulated financial environments and complies with:
